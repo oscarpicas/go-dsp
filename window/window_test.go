@@ -19,7 +19,7 @@ package window
 import (
 	"testing"
 
-	"github.com/mjibson/go-dsp/dsputils"
+	"github.com/oscarpicas/go-dsp/dsputils"
 )
 
 type windowTest struct {
